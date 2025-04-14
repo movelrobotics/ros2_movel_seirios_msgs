@@ -1,0 +1,6 @@
+string package
+string launch_file
+string args
+string[] ping_nodes # optional, if want to ping this node
+---
+uint8 launch_id
